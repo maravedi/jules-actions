@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "GitHub Action integration for Jules API architecture planning"
 readme = "README.md"
 requires-python = ">=3.7"
-license = {text = "MIT"}
+license = {file = "LICENSE"}
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
